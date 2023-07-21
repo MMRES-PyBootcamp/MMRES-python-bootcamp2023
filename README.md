@@ -2,7 +2,7 @@
 
 Contents for the scientific python bootcamp of the BIST master of Multidisciplinary Research in Experimental Sciences (2022 course).
 
-The contents of this year's bootcamp are designed based on [2021](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2021), [2020](https://github.com/germannp/BIST-Python-Bootcamp), and [2019](https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions.
+The contents of this year's bootcamp are designed based on [2022](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2022), [2021](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2021), [2020](https://github.com/germannp/BIST-Python-Bootcamp), and [2019](https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions.
 
 Suggested Installation
 ----------------------
