@@ -20,9 +20,9 @@ Timetable
 
 |              | Oct. 16th          | Oct. 17th            | Oct. 18th   | -           | -     | - |
 |--------------|--------------------|----------------------|-------------|---------------------|-------|---|
-| 9:00-10:00  | Neural Networks    | Convolutional Layers | holiday     | -   | -     | - |
-| 10:00-11:00  | Backpropagation    | Overfitting          | holiday     | -                 | -     | - |
-| 11:00-12:00  | Exercise           | Regularization       | holiday     | -                   | -     | - |
+| 9:00-10:00  | Neural Networks    | Convolutional Layers | Advanced methods:     | -   | -     | - |
+| 10:00-11:00  | Backpropagation    | Overfitting          | NLP    | -                 | -     | - |
+| 11:00-12:00  | Exercise           | Regularization       | -     | -                   | -     | - |
 
 
 Online Resources
