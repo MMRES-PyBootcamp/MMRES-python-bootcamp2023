@@ -15,14 +15,14 @@ Timetable
 
 |              | Sept. 14th         | Sept. 18th      | Sept. 21st  | Sept. 28th            | Oct. 5th              | Oct. 9th              |
 |--------------|--------------------|-----------------|-------------|---------------------|-----------------------|-----------------------|
-| 15:00-16:00  | Set up & Intro (I) | Scipy stats (I) | Pandas (II) | Group Work revision | Numpy                 | Group Work revision   |
-| 16:00-17:00  | Intro (II)         | Pandas (I)      | Seaborn     | Scipy stats (II)    | Intro to PyTorch.     | Q&A or extra material |
+| 10:00-11:00  | Set up & Intro (I) | Scipy stats (I) | Pandas (II) | Group Work revision | Numpy                 | Group Work revision   |
+| 11:00-12:00  | Intro (II)         | Pandas (I)      | Seaborn     | Scipy stats (II)    | Intro to ML     | Q&A or extra material |
 
 |              | Oct. 16th          | Oct. 17th            | Oct. 18th   | -           | -     | - |
 |--------------|--------------------|----------------------|-------------|---------------------|-------|---|
-| 15:00-16:00  | Neural Networks    | Convolutional Layers | holiday     | -   | -     | - |
-| 16:00-17:00  | Backpropagation    | Overfitting          | holiday     | -                 | -     | - |
-| 17:00-18:00  | Exercise           | Regularization       | holiday     | -                   | -     | - |
+| 9:00-10:00  | Neural Networks    | Convolutional Layers | holiday     | -   | -     | - |
+| 10:00-11:00  | Backpropagation    | Overfitting          | holiday     | -                 | -     | - |
+| 11:00-12:00  | Exercise           | Regularization       | holiday     | -                   | -     | - |
 
 
 Online Resources
