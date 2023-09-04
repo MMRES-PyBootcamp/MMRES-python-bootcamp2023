@@ -1,14 +1,14 @@
 # BIST-master-python-bootcamp
 
-Contents for the scientific python bootcamp of the BIST master of Multidisciplinary Research in Experimental Sciences (2022 course).
+Contents for the scientific python bootcamp of the BIST master of Multidisciplinary Research in Experimental Sciences (2023 course).
 
 The contents of this year's bootcamp are designed based on [2022](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2022), [2021](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2021), [2020](https://github.com/germannp/BIST-Python-Bootcamp), and [2019](https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions.
 
 Suggested Installation
 ----------------------
-1. Anaconda3 with Jupyter and Spyder (or another editor)
-2. The python packages NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, pytorch
-3. Git
+1. Anaconda3 with Jupyter or JupyterLab. Please, refer to the official [Anaconda website](https://www.anaconda.com/download) and follow downloading and installing intructions.
+2. NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn and Pytorch(\*). Please note that starred packages are not available after a default Anaconda3 installation and thus you should [manually install](https://docs.anaconda.com/free/anaconda/packages/install-packages/) them. 
+3. Git (Optional).
 
 Timetable
 ---------
