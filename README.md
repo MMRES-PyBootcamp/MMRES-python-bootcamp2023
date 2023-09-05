@@ -18,11 +18,11 @@ Timetable
 | 10:00-11:00  | Set up & Intro (I) | Scipy stats (I) | Pandas (II) | Group Work revision | Numpy                 | Group Work revision   |
 | 11:00-12:00  | Intro (II)         | Pandas (I)      | Seaborn     | Scipy stats (II)    | Intro to ML           | Q&A or extra material |
 
-|              | Oct. 16th          | Oct. 17th            | Oct. 18th   | -           | -     | - |
-|--------------|--------------------|----------------------|-------------|---------------------|-------|---|
-| 9:00-10:00   | Neural Networks    | Convolutional Layers | Advanced methods:     | -   | -     | - |
-| 10:00-11:00  | Backpropagation    | Overfitting          | NLP    | -                 | -     | - |
-| 11:00-12:00  | Exercise           | Regularization       | -     | -                   | -     | - |
+|              | Oct. 16th          | Oct. 17th            | Oct. 18th             | -   | -   | -   |
+|--------------|--------------------|----------------------|-----------------------|-----|-----|-----|
+| 9:00-10:00   | Neural Networks    | Convolutional Layers | Advanced methods:     | -   | -   | -   |
+| 10:00-11:00  | Backpropagation    | Overfitting          | NLP                   | -   | -   | -   |
+| 11:00-12:00  | Exercise           | Regularization       | -                     | -   | -   | -   |
 
 
 Online Resources
