@@ -12,7 +12,7 @@ Suggested python installation
 2. Packages: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, [Pytorch](https://anaconda.org/pytorch/pytorch)(\*) and [Torchvision](https://anaconda.org/pytorch/torchvision)(\*). Please note that starred packages are not available after default Anaconda3 setup and thus you should manually install them using [Anaconda Prompt](https://docs.anaconda.com/free/anaconda/packages/install-packages/) (follow the hyperlinks for further help).
 3. Git (Optional).
 
-Repository preparation
+Suggested repository preparation
 ----------------------
 1. Download this repository by using `<> Code` green button on this same page, then `Download ZIP`. If you are familiar with Git, you can just clone the repository.
 2. Open an Anaconda Prompt and navigate to the folder where the just-downloaded repository is locally stored in your machine (for example, by doing `cd C:Users\You\GitHub\MMRES-python-bootcamp2023` or something similar).
