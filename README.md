@@ -9,12 +9,12 @@ The contents of this year's bootcamp are designed based on [2022](https://github
 Suggested python installation
 -----------------------------
 1. Distribution: Anaconda3 with Jupyter or JupyterLab (better JupyterLab). Please, refer to the official [Anaconda website](https://www.anaconda.com/download) and follow downloading and installing instructions.
-2. Packages: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, [Pytorch](https://anaconda.org/pytorch/pytorch)(\*) and [Torchvision](https://anaconda.org/pytorch/torchvision)(\*). Please note that starred packages are not available after default Anaconda3 setup and thus you should manually install them using [Anaconda Prompt](https://docs.anaconda.com/free/anaconda/packages/install-packages/) (follow the hyperlinks for further help).
+2. Packages: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, [Pytorch](https://anaconda.org/pytorch/pytorch)\* and [Torchvision](https://anaconda.org/pytorch/torchvision)\*. Please note that starred packages are not available after default Anaconda3 setup and thus you should manually install them using [Anaconda Prompt](https://docs.anaconda.com/free/anaconda/packages/install-packages/) (follow the hyperlinks for further help).
 3. Git (Optional).
 
 Suggested repository preparation
 ----------------------
-1. Download this repository by using `<> Code` green button on this same page, then `Download ZIP`. If you are familiar with Git, you can just clone the repository.
+1. From this same page, use the `<> Code` green button and then `Download ZIP` option to store a local copy of this repository (don't forget to unzip it). If you are familiar with Git, you can just clone the repository.
 2. Open an Anaconda Prompt and navigate to the folder where the just-downloaded repository is locally stored in your machine (for example, by doing `cd C:Users\You\GitHub\MMRES-python-bootcamp2023` or something similar).
 3. Type the command `jupyter lab` (you will see how Jupyter Lab opens a new tab in your default web browser).
 4. Check that you can successfully load the first Jupyter Notebook called `01_Intro.ipynb` just by double-clicking it (use the "File Browser" pane at the left side of the Jupyter Lab tab).
