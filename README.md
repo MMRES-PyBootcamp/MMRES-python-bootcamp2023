@@ -9,7 +9,7 @@ The contents of this year's bootcamp are designed based on [2022](https://github
 Suggested python installation
 -----------------------------
 1. Distribution: Anaconda3 with Jupyter or JupyterLab (better JupyterLab). Please, refer to the official [Anaconda website](https://www.anaconda.com/download) and follow downloading and installing instructions.
-2. Packages: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, [Pytorch](https://anaconda.org/pytorch/pytorch)\* and [Torchvision](https://anaconda.org/pytorch/torchvision)\*. Please note that starred packages are not available after default Anaconda3 setup and thus you should manually install them using [Anaconda Prompt](https://docs.anaconda.com/free/anaconda/packages/install-packages/) (follow the hyperlinks for further help).
+2. Packages: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, [bioinfokit](https://anaconda.org/bioconda/bioinfokit)\*,[Pytorch](https://anaconda.org/pytorch/pytorch)\* and [Torchvision](https://anaconda.org/pytorch/torchvision)\*. Please note that starred packages are not available after default Anaconda3 setup and thus you should manually install them using [Anaconda Prompt](https://docs.anaconda.com/free/anaconda/packages/install-packages/). Follow the hyperlinks for further help and be patient, Anaconda might take a considerable amount of time during certain package installations processes).
 3. Git (Optional).
 
 Suggested repository preparation
